@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+img {
+  width: 500px;
+}
+
+.clock {
+  font-size: 30px;
+}
