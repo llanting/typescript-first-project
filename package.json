@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "unsplash-js": "^6.3.0"
   }
 }
